@@ -1,0 +1,83 @@
+*{
+    font-family: 'SF Pro Display Bold';
+  }
+  
+  h1{
+    font-size: 34px;
+    line-height: 41px;
+    margin: 0;
+  }
+  h3{
+    font-size: 21px;
+  }
+  p{
+    font-size: 15px;
+    font-family: 'SF Pro Text Regular';
+  }
+  
+  ion-button{
+    --border-radius: 20px;
+    --font-size: 15px;
+    --padding-top: 28px;
+    --padding-bottom: 28px;
+    /* font-size: 15px; */
+  }
+  ion-card{
+    box-shadow: 0 3px 20px #BEC2CE4D;
+  
+    margin-bottom: 15px!important;
+  }
+  ion-card ion-card-content{
+    font-size: 15px!important;
+    color: #808E96;
+  }
+  
+  .divider-h{
+    height: 30px;
+  }
+  .button-add{
+    width: 36px !important;
+    height: 36px !important;
+    margin-top: 10px;
+    --box-shadow: 0px 5px 10px #FF65A07F;
+  }
+  .button-add ion-icon{
+    font-size: 37px;
+  }
+  .container{
+    padding: 15px;
+  }
+  .container-sm{
+    padding: 23px;
+  }
+  .header-md::after {
+    background-image: none!important;
+  }
+  
+  
+  ion-toolbar {
+    --border-style: none;
+    --background-color: transparent;
+    --ion-color-base: transparent !important;
+  }
+  label {
+    padding-left: 13px;
+  }
+  .input-control {
+    border-radius: 10px;
+    font-size: 14px;
+    background-color: #f1f2f6;
+    border: none;
+    width: 100%;
+    color: #8c989b;
+    outline: none;
+    padding: 17px 17px;
+    margin-top: 13px;
+    margin-bottom: 22px;
+  }
+  .pt-0{
+    padding-top: 0px;
+  }
+  .mb-1{
+    margin-bottom: 21px;
+  }
