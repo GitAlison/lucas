@@ -2,7 +2,7 @@
   <ion-page>
     <ion-tabs>
       <ion-tab-bar slot="bottom">
-        <ion-tab-button tab="tab1" href="/tabs/notices">
+        <ion-tab-button tab="tab1" href="/tabs/news">
           <ion-icon :icon="homeOutline" />
           <ion-label>Home</ion-label>
         </ion-tab-button>

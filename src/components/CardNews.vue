@@ -1,14 +1,14 @@
 <template>
   <ion-card class="ion-no-margin">
     <ion-card-header>
-      <ion-card-title @click="() => router.push('/notice-detail')"
+      <ion-card-title @click="() => router.push('/news-detail')"
         >unt aut facere repellat provident occaecati excepturi optio
         reprehenderit</ion-card-title
       >
     </ion-card-header>
 
     <ion-card-content>
-      <div @click="() => router.push('/notice-detail')">
+      <div @click="() => router.push('/news-detail')">
         quia et suscipit\nsuscipit recusandae consequuntur expedita et
         umnreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem
         sunt rem eveniet architecto
